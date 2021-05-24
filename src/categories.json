@@ -1,0 +1,12 @@
+[
+    {"CategoryID": 1, "CategoryName": "Des Moines"},
+    {"CategoryID": 2, "CategoryName": "Marietta"},
+    {"CategoryID": 3, "CategoryName": "Denver"},
+    {"CategoryID": 4, "CategoryName": "Lawrenceville"},
+    {"CategoryID": 5, "CategoryName": "Orland Park"},
+    {"CategoryID": 6, "CategoryName": "Middleburg"},
+    {"CategoryID": 7, "CategoryName": "Green Bay"},
+    {"CategoryID": 8, "CategoryName": "Westminster"},
+    {"CategoryID": 8, "CategoryName": "Shawnee"},
+    {"CategoryID": 8, "CategoryName": "Lynnwood"}
+  ]
